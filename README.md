@@ -18,7 +18,7 @@ Before running this project, make sure you have the following:
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone <[repository-url](https://github.com/saqiba123/shopify_to_sqlite3db.git)>
     ```
 
 2. Install dependencies:
